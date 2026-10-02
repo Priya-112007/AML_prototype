@@ -1,0 +1,13 @@
+scikit-learn
+imbalanced-learn
+xgboost
+opencv-python
+torch
+torchvision
+shap
+mlflow
+pandas
+pyarrow
+Pillow
+matplotlib
+streamlit
